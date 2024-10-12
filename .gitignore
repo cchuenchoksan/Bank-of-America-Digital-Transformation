@@ -173,3 +173,5 @@ DATASET*
 *.pth
 
 *.pkl
+
+chromedriver_mac_arm64
